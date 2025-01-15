@@ -13,7 +13,7 @@ function App() {
           <div className="flex items-center gap-2">
             <Camera className="text-blue-500" size={32} />
             <h1 className="text-2xl font-bold text-gray-900">
-              Image Editor Pro
+              Image Editor Created by Krishna
             </h1>
           </div>
         </div>
